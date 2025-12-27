@@ -5,5 +5,5 @@ How to use it : open your terminal in linux and do python3 Second_Order_STO your
 *********************************************************************************
 the ouput will be like that : 
 check this manually : https://example.com/resources/asdasd/zxcxcz  
-links belong to : http://example.example.com
+links belong to : http://example.example.com  
 ########################################
